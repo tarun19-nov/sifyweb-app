@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tarun19-nov.github.io/sifyweb-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/tarun19-nov.github.io/sifyweb-app/static/js/main.1b864022.chunk.js",
-    "main.js.map": "/tarun19-nov.github.io/sifyweb-app/static/js/main.1b864022.chunk.js.map",
-    "runtime-main.js": "/tarun19-nov.github.io/sifyweb-app/static/js/runtime-main.bfa89c28.js",
-    "runtime-main.js.map": "/tarun19-nov.github.io/sifyweb-app/static/js/runtime-main.bfa89c28.js.map",
-    "static/js/2.68d2a2ac.chunk.js": "/tarun19-nov.github.io/sifyweb-app/static/js/2.68d2a2ac.chunk.js",
-    "static/js/2.68d2a2ac.chunk.js.map": "/tarun19-nov.github.io/sifyweb-app/static/js/2.68d2a2ac.chunk.js.map",
-    "static/js/3.573bdc1a.chunk.js": "/tarun19-nov.github.io/sifyweb-app/static/js/3.573bdc1a.chunk.js",
-    "static/js/3.573bdc1a.chunk.js.map": "/tarun19-nov.github.io/sifyweb-app/static/js/3.573bdc1a.chunk.js.map",
-    "index.html": "/tarun19-nov.github.io/sifyweb-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/tarun19-nov.github.io/sifyweb-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.68d2a2ac.chunk.js.LICENSE.txt": "/tarun19-nov.github.io/sifyweb-app/static/js/2.68d2a2ac.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tarun19-nov.github.io/sifyweb-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/sifyweb-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/sifyweb-app/static/js/main.1b864022.chunk.js",
+    "main.js.map": "/sifyweb-app/static/js/main.1b864022.chunk.js.map",
+    "runtime-main.js": "/sifyweb-app/static/js/runtime-main.e14a486d.js",
+    "runtime-main.js.map": "/sifyweb-app/static/js/runtime-main.e14a486d.js.map",
+    "static/js/2.68d2a2ac.chunk.js": "/sifyweb-app/static/js/2.68d2a2ac.chunk.js",
+    "static/js/2.68d2a2ac.chunk.js.map": "/sifyweb-app/static/js/2.68d2a2ac.chunk.js.map",
+    "static/js/3.573bdc1a.chunk.js": "/sifyweb-app/static/js/3.573bdc1a.chunk.js",
+    "static/js/3.573bdc1a.chunk.js.map": "/sifyweb-app/static/js/3.573bdc1a.chunk.js.map",
+    "index.html": "/sifyweb-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sifyweb-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.68d2a2ac.chunk.js.LICENSE.txt": "/sifyweb-app/static/js/2.68d2a2ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sifyweb-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfa89c28.js",
+    "static/js/runtime-main.e14a486d.js",
     "static/js/2.68d2a2ac.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.1b864022.chunk.js"
